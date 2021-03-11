@@ -1,3 +1,13 @@
+fork 项目，想实现一些非常专门的功能，尝试写一写，不确定 chrome 有没有提供我所希望的某些功能的接口。
+
+
+
+
+
+
+
+
+
 # 写在前面
 
 我花了将近一个多月的时间断断续续写下这篇博文，并精心写下完整demo，所以转载务必保留 http://blog.haoji.me/chrome-plugin-develop.html 。本文所有涉及到的大部分代码均在这个demo里面：https://github.com/sxei/chrome-plugin-demo ，大家可以直接下载下来运行。
